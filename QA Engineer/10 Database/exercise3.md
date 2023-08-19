@@ -24,10 +24,10 @@ yt-remote-fast-check-period | {"data":"1688298640705","creation":1688298340705} 
 
 # Скриншоты
 ## Результат выполнения команд для добавления и получения объекта в "Session Storage"
-![Результат выполнения команд для добавления и получения объекта в Session Storage](/QA Engineer/10 Database/images/picture1.jpg)
+![Результат выполнения команд для добавления и получения объекта в Session Storage](/education/QA Engineer/10 Database/images/picture1.jpg)
 ## Состояние "Session Storage" после добавления объекта
-![Состояние Session Storage после добавления объекта](/QA Engineer/10 Database/images/picture2.jpg)
+![Состояние Session Storage после добавления объекта](/education/QA Engineer/10 Database/images/picture2.jpg)
 ## Результат выполнения команд для добавления и получения объекта в "Local Storage"
-![Результат выполнения команд для добавления и получения объекта в Local Storage](/QA Engineer/10 Database/images/picture3.jpg)
+![Результат выполнения команд для добавления и получения объекта в Local Storage](/education/QA Engineer/10 Database/images/picture3.jpg)
 ## Состояние "Local Storage" после добавления объекта
-![Состояние Local Storage после добавления объекта](/QA Engineer/10 Database/images/picture4.jpg)
+![Состояние Local Storage после добавления объекта](/education/QA Engineer/10 Database/images/picture4.jpg)
